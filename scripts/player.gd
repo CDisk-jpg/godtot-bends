@@ -1,5 +1,5 @@
 extends CharacterBody2D
-#github test
+
 const acc = 3
 const SPEEDx = 110.0
 const JUMP_VELOCITY = -120.0
